@@ -1,11 +1,15 @@
-# EDA-Project
-Ici, j'applique les notions que j'ai apprises durant la formation Coursera Exploratory Data Analysis for Machine Learning. 
-# Description de la base de données utilisée
-J'utilise une base de données prise sur Kaggle sur le lien suivant : https://www.kaggle.com/datasets/ranjitmandal/fraud-detection-dataset-csv . 
-Il d'agit d'une base de dpnnées sur la détection de fraude de transactions lors de paiements. 
-Description : Ce jeu de données contient plus de 51 000 transactions, chacune étant étiquetée comme frauduleuse ou légitime, en fonction de modèles réels.
+Here, I am applying the concepts I learned during the Coursera course **Exploratory Data Analysis for Machine Learning**.
 
-🔹 Il comprend des informations sur :
-✅ Détails des transactions : Montant, type, heure et méthode de paiement 💰
-✅ Comportement de l'utilisateur : Historique de fraudes, ancienneté du compte, activité récente 📊
-✅ Appareil & Localisation : Appareil utilisé, lieu de la transaction 🌍
+### Description of the Dataset Used
+I am using a dataset taken from Kaggle, available at the following link: [Fraud Detection Dataset CSV](https://www.kaggle.com/datasets/ranjitmandal/fraud-detection-dataset-csv). This dataset focuses on detecting fraudulent transactions during payments.  
+
+**Description**:  
+
+This dataset contains over **51,000 transactions**, each labeled as either fraudulent or legitimate, based on real-world patterns.  
+
+🔹 It includes information about:  
+✅ **Transaction Details**: Amount, type, time, and payment method 💰  
+✅ **User Behavior**: Fraud history, account age, recent activity 📊  
+✅ **Device & Location**: Device used, transaction location 🌍  
+
+This dataset is ideal for exploring patterns in fraudulent transactions and building predictive models for fraud detection. If you have further questions or need help with the analysis, feel free to ask!
